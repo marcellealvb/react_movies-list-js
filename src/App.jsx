@@ -1,4 +1,5 @@
 /* eslint-disable max-len */
+// Atualização para forçar nova revisão do PR
 
 import './App.scss';
 import moviesFromServer from './api/movies.json';
